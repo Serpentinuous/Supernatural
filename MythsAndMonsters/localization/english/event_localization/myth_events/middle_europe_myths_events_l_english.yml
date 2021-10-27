@@ -1,0 +1,7 @@
+﻿l_english:
+# Encounter of mythical beings
+
+ gnome_encounter_decisions.0001.t:0 "A small Encounter"
+ gnome_encounter_decisions.0001.desc:0 "You wandered through the woods and encountered a gnome"
+ gnome_encounter_decisions.0001.a:0 "Finders Keepers [gold_i]"
+ 

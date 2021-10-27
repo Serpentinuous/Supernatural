@@ -1,0 +1,23 @@
+# European Folklore
+
+#######################
+# GNOME GOLD MINE EVENT
+#######################
+
+
+gnome_encounter.0001 = {
+	type = character_event
+	title = gnome_encounter_decisions.0001.t
+	desc =  gnome_encounter_decisions.0001.desc
+	theme = hunt_activity
+	override_background = { event_background = wilderness_forest_pine }
+	left_portrait = {
+		character = root
+		animation = disbelief
+	}
+	
+	option = {
+		name = gnome_encounter_decisions.0001.a
+		add_gold = 5 gold
+		}
+
